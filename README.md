@@ -165,7 +165,7 @@ Evaluated and optimized Large Language Model performance through structured qual
 
 ---
 
-### 📊 **SERVICE DATA ANALYST** | Rapidd X Logistics *(Through Garvish Marketing Pvt. Ltd.)*
+### 📊 **DATA ANALYST** | Rapidd X Logistics *(Through Garvish Marketing Pvt. Ltd.)*
 **March 2025 – April 2026**
 
 Led operational analytics and incident management optimization for enterprise IT infrastructure. Analyzed complex operational metrics to diagnose root causes and enhance platform reliability.
