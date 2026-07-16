@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6A4C93,1d3557,457b9d&height=300&section=header&text=HARSH%20SANWAL&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Technical%20Analyst%20|%20AI%20Systems%20|%20Data%20Engineering&descAlignY=62&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6A4C93,1d3557,457b9d&height=300&section=header&text=HARSH%20SANWAL&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20AI%20Systems%20|%20Data%20Engineering&descAlignY=62&descAlign=50" />
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-📍 **New Delhi, IN** • 🎓 **B.Sc. Physics** | **IKU 2023**
+📍 **New Delhi, IN** • 🎓 **B.Sc. Physics** 
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanwalmaillink@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-Technical Analyst with deep expertise in **operational analytics**, **enterprise support**, and **AI systems engineering**. Specialized in transforming complex operational data into actionable intelligence through **Python**, **SQL**, **Power BI**, and **Generative AI**. Architecting scalable analytics solutions and AI-driven workflows that improve incident resolution, operational efficiency, and business decision-making.
+Data Analyst with deep expertise in **operational analytics**, **enterprise support**, and **AI systems engineering**. Specialized in transforming complex operational data into actionable intelligence through **Python**, **SQL**, **Power BI**, and **Generative AI**. Architecting scalable analytics solutions and AI-driven workflows that improve incident resolution, operational efficiency, and business decision-making.
 
 **Core Focus:**
 - 🤖 **AI/LLM Systems** — LLM Architecture, Agentic AI, Advanced RAG, AI Evaluation
@@ -165,7 +165,7 @@ Evaluated and optimized Large Language Model performance through structured qual
 
 ---
 
-### 📊 **SERVICE DESK ENGINEER** | Rapidd X Logistics *(Through Garvish Marketing Pvt. Ltd.)*
+### 📊 **SERVICE DATA ANALYST** | Rapidd X Logistics *(Through Garvish Marketing Pvt. Ltd.)*
 **March 2025 – April 2026**
 
 Led operational analytics and incident management optimization for enterprise IT infrastructure. Analyzed complex operational metrics to diagnose root causes and enhance platform reliability.
