@@ -286,6 +286,6 @@ Open To:
 
 ### *"Engineering intelligent solutions through data, analytics, and AI systems"*
 
-[![Made by](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-by%20Harsh%20Sanwal-6A4C93?style=flat-square)](https://github.com/harsh-sanwal)
+[![Made by](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-by%20Harsh%20Sanwal-6A4C93?style=flat-square)](https://github.com/sanwalharsh)
 
 </div>
