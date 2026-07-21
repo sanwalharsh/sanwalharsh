@@ -225,30 +225,6 @@ Led operational analytics and incident management optimization for enterprise IT
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanwalharsh&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=6A4C93&text_color=8B949E&title_color=A78BFA)](https://github.com/sanwalharsh)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanwalharsh&theme=midnight-purple&hide_border=true&bg_color=0d1117&text_color=8B949E&title_color=A78BFA&layout=compact)](https://github.com/sanwalharsh)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanwalharsh&theme=midnight-purple&hide_border=true&background=0d1117&ring=6A4C93&fire=A78BFA&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&sideLabels=A78BFA)](https://github.com/sanwalharsh)
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanwalharsh&theme=algolia&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/sanwalharsh)
-
-</div>
-
----
-
 ## 🎯 Contribution Activity
 
 <div align="center">
@@ -324,6 +300,6 @@ Open To:
 
 ### *"Engineering intelligent solutions through data, analytics, and AI systems"*
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-by%20Harsh%20Sanwal-6A4C93?style=flat-square)](https://github.com/harsh-sanwal)
+[![Made by](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-by%20Harsh%20Sanwal-6A4C93?style=flat-square)](https://github.com/harsh-sanwal)
 
 </div>
