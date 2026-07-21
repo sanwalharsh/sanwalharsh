@@ -11,9 +11,9 @@
 📍 **New Delhi, IN** • 🎓 **B.Sc. Physics** 
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanwalmaillink@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A4C93?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanwalharsh/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanwalharsh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A4C93?style=for-the-badge&logo=firefox&logoColor=white)](https://harsh-sanwal-portfolio.vercel.app)
 [![Phone](https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919478959696)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanwalharsh&style=flat-square&color=6A4C93)
