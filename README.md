@@ -16,9 +16,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-6A4C93?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.com)
 [![Phone](https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919478959696)
 
-![Profile Views](https://komarev.com/ghpvc/?username=harsh-sanwal&style=flat-square&color=6A4C93)
-![Followers](https://img.shields.io/github/followers/harsh-sanwal?style=flat-square&color=6A4C93)
-![Stars](https://img.shields.io/github/stars/harsh-sanwal?style=flat-square&color=6A4C93)
+![Profile Views](https://komarev.com/ghpvc/?username=sanwalharsh&style=flat-square&color=6A4C93)
+![Followers](https://img.shields.io/github/followers/sanwalharsh?style=flat-square&color=6A4C93)
+![Stars](https://img.shields.io/github/stars/sanwalharsh?style=flat-square&color=6A4C93)
 
 </div>
 
