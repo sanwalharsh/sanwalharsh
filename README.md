@@ -243,7 +243,7 @@ Led operational analytics and incident management optimization for enterprise IT
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=harsh-sanwal&theme=algolia&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/harsh-sanwal)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanwalharsh&theme=algolia&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/sanwalharsh)
 
 </div>
 
