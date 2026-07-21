@@ -211,20 +211,6 @@ Led operational analytics and incident management optimization for enterprise IT
 
 ---
 
-## 🎮 Coding Profiles & Competitive Programming
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298C3C?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4D7E?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
-
-</div>
-
----
-
 ## 🎯 Contribution Activity
 
 <div align="center">
