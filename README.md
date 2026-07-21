@@ -229,11 +229,11 @@ Led operational analytics and incident management optimization for enterprise IT
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh-sanwal&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=6A4C93&text_color=8B949E&title_color=A78BFA)](https://github.com/harsh-sanwal)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanwalharsh&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=6A4C93&text_color=8B949E&title_color=A78BFA)](https://github.com/sanwalharsh)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-sanwal&theme=midnight-purple&hide_border=true&bg_color=0d1117&text_color=8B949E&title_color=A78BFA&layout=compact)](https://github.com/harsh-sanwal)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanwalharsh&theme=midnight-purple&hide_border=true&bg_color=0d1117&text_color=8B949E&title_color=A78BFA&layout=compact)](https://github.com/sanwalharsh)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh-sanwal&theme=midnight-purple&hide_border=true&background=0d1117&ring=6A4C93&fire=A78BFA&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&sideLabels=A78BFA)](https://github.com/harsh-sanwal)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanwalharsh&theme=midnight-purple&hide_border=true&background=0d1117&ring=6A4C93&fire=A78BFA&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&sideLabels=A78BFA)](https://github.com/sanwalharsh)
 
 </div>
 
