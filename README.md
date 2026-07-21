@@ -94,7 +94,7 @@ Data Analyst with deep expertise in **operational analytics**, **enterprise supp
 
 ---
 
-## 📁 Featured Projects
+## 📁 Projects
 
 <details>
 <summary><b>🤖 ENTERPRISE IT OPERATIONS COPILOT | AI Design Intelligence Platform</b></summary>
@@ -118,31 +118,6 @@ Data Analyst with deep expertise in **operational analytics**, **enterprise supp
 - Integrated Salesforce Service Cloud for enterprise ticketing and workflow orchestration
 
 **Technical Stack:** LangGraph, GPT-4 API, Python, Advanced RAG, Vector Databases, Salesforce APIs, Power BI
-
-</details>
-
-<details>
-<summary><b>🛡️ SENTINEL | AI-Powered Fraud Detection & Risk Intelligence System</b></summary>
-
-**ML-Driven Anomaly Detection & Operational Risk Assessment**
-
-| Metric | Detail |
-|--------|--------|
-| **Architecture** | Python + ML Algorithms + SQL Analytics |
-| **Core Function** | Real-time fraud detection and risk scoring |
-| **Scale** | Transaction-level analysis at enterprise scale |
-| **Performance** | Sub-second anomaly detection latency |
-| **Security** | Automated validation pipelines with AI assistance |
-| **Impact** | 60%+ improvement in fraud pattern identification |
-| **Repository** | [View Repository](https://github.com) |
-
-**Project Deep-Dive:**
-- Engineered anomaly detection models using Python, SQL, and Machine Learning to identify high-risk transactions and emerging fraud patterns
-- Developed automated validation pipelines integrating AI-assisted anomaly detection, risk scoring, and operational monitoring to strengthen data integrity
-- Designed interactive reporting dashboards delivering actionable fraud insights that accelerated investigation and operational risk assessment
-- Implemented advanced statistical analysis and pattern recognition techniques
-
-**Technical Stack:** Python, SQL, Machine Learning, Statistical Analysis, Data Visualization, Power BI
 
 </details>
 
@@ -270,9 +245,9 @@ Open To:
 ### Let's Build Intelligent Solutions Together
 
 [![Email](https://img.shields.io/badge/Email-sanwalmaillink@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:sanwalmaillink@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Sanwal-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-harsh--sanwal-181717?style=flat-square&logo=github)](https://github.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-6A4C93?style=flat-square&logo=firefox)](https://portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Sanwal-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sanwalharsh)
+[![GitHub](https://img.shields.io/badge/GitHub-harsh--sanwal-181717?style=flat-square&logo=github)](https://github.com/sanwalharsh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-6A4C93?style=flat-square&logo=firefox)](https://harsh-sanwal-portfolio.vercel.app)
 
 **Phone:** +91 9478959696
 
