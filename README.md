@@ -253,7 +253,7 @@ Led operational analytics and incident management optimization for enterprise IT
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh-sanwal&theme=react-dark&bg_color=0d1117&color=6A4C93&line=A78BFA&point=8B949E&area=true&hide_border=true)](https://github.com/harsh-sanwal)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanwalharsh&theme=react-dark&bg_color=0d1117&color=6A4C93&line=A78BFA&point=8B949E&area=true&hide_border=true)](https://github.com/sanwalharsh)
 
 </div>
 
@@ -263,7 +263,7 @@ Led operational analytics and incident management optimization for enterprise IT
 
 <div align="center">
 
-![Snake Animation](https://github.com/harsh-sanwal/harsh-sanwal/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://github.com/sanwalharsh/sanwalharsh/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
